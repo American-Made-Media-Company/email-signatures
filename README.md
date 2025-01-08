@@ -20,3 +20,4 @@
 5. Move your cursor all the way to the left and hit `Enter` on your keyboard. There should be an empty line in between your name, title, and contact info and the signature.
 6. Beneath the signature box, you can select a default signature so that it is applied to all new emails.
 7. Once you are satisfied with your signature, scroll to the bottom of the settings page and click `Save Changes`.
+8. Compose a new email and your signature will populate.
